@@ -36,7 +36,7 @@ export const styles = `
     }
     .button__container {
         border: none;
-        background-color: #0f172a;
+        background-color: #6BCAE2;
         width: 60px;
         height: 60px;
         border-radius: 50%;
@@ -49,7 +49,7 @@ export const styles = `
 
     .widget__header {
         padding: 1rem 2rem 1.5rem;
-        background-color: #000;
+        background-color: #DD8CCA;
         color: #fff;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
@@ -97,7 +97,7 @@ export const styles = `
         height: 48px;
         border-radius: 6px;
         font-size: 18px;
-        background-color: #000;
+        background-color: #DD8CCA;
         color: #fff;
         border: 0;
         width: 100%;
