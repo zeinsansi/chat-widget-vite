@@ -36,7 +36,7 @@ export const styles = `
     }
     .button__container {
         border: none;
-        background-color: #6BCAE2;
+        background-color: #fff;
         width: 60px;
         height: 60px;
         border-radius: 50%;
