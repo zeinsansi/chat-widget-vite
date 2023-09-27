@@ -81,8 +81,8 @@ class MessageWidget {
   createWidgetContent() {
     this.widgetContainer.innerHTML = `
         <header class="widget__header">
-            <h3>Start a conversation</h3>
-            <p>We usually respond within a few hours</p>
+            <h3>Heabb</h3>
+            <p>ofline</p>
         </header>
 
         <form>
