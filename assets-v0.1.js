@@ -49,7 +49,7 @@ export const styles = `
 
     .widget__header {
         padding: 1rem 2rem 1.5rem;
-        background-color: #000;
+        background-color: #DD8CCA;
         color: #fff;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
